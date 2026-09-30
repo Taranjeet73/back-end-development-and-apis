@@ -1,0 +1,10 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "A simple module that checks whether a number is prime",
+  "main": "index.js",
+  "keywords": ["prime", "number", "checker"],
+  "author": "Your Name",
+  "license": "ISC",
+  "type": "commonjs"
+}
