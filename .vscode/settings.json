@@ -14,7 +14,7 @@
     "package-lock.json": true,
     "package.json": true,
     "README.md": true,
-    "build-a-timestamp-microservice": false,
+    "build-a-timestamp-microservice": true,
     "build-a-web-server": true,
     "learn-nodejs-repl": true,
     "build-a-case-converter": true,
@@ -28,7 +28,7 @@
     "build-a-weather-service-api": true,
     "build-a-bank-api": true,
     "build-a-resource-monitor": true,
-    "build-a-chat-app": true,
+    "build-a-chat-app": false,
     "build-jwt-protected-routes": true
   },
   "chat.disableAIFeatures": true,
@@ -42,7 +42,7 @@
       "open": true,
       "showLoader": true,
       "timeout": 4000,
-      "url": "https://glowing-umbrella-7vqqqvr79q6hp4qg-8080.app.github.dev"
+      "url": "https://psychic-doodle-x5xr5xjpqw76h6947-8080.app.github.dev"
     }
   ],
   "terminal.integrated.defaultProfile.linux": "bash",
